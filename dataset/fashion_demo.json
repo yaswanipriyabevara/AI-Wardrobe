@@ -1,0 +1,6 @@
+{
+  "source_reference": "Fashion Product Images (Small) style metadata structure",
+  "demo_items": 24,
+  "fields": ["id", "name", "category", "color", "pattern", "formality", "season", "warmth", "material", "fit", "image"],
+  "note": "Bundled demo assets are a compact local catalog for reliable hackathon deployment. The full external dataset is referenced in DATASET_AND_LOOKS.md."
+}

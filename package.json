@@ -1,0 +1,11 @@
+{
+  "name": "stylesync-ai-hackathon",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "test": "cd backend && npm test"
+  }
+}
